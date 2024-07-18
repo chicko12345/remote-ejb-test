@@ -1,0 +1,9 @@
+.e4css/
+bin/
+test_bin/
+target/
+org.sonar.ide.eclipse.core.prefs
+output.log
+workspace
+xtend-gen/
+org.eclipse.wst.validation.prefs 
